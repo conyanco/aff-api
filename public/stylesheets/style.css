@@ -15,7 +15,7 @@ text-align: center;
   min-width: 320px;
   width:100%;
   height:100vh;
-  padding: 40% 0;
+ 
   box-sizing: border-box;
 
 }
@@ -23,7 +23,7 @@ text-align: center;
 0%{background:#000000;}
 100%{background:#ff0066;}
 }
-#sec01 {}
+#sec01 {padding: 40% 0;}
 #sec02 {
 background: #444;
 }
